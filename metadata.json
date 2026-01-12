@@ -1,0 +1,7 @@
+{
+  "name": "MONIKA SUPAR VPN PRO",
+  "description": "A professional-grade VPN client dashboard featuring global server selection, real-time traffic monitoring, and AI-powered server optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
